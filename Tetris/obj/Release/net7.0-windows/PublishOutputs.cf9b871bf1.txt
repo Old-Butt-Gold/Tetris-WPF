@@ -1,5 +1,0 @@
-C:\Users\Lenovo\RiderProjects\Tetris\Tetris\bin\Release\net7.0-windows\publish\Tetris.exe
-C:\Users\Lenovo\RiderProjects\Tetris\Tetris\bin\Release\net7.0-windows\publish\Tetris.dll
-C:\Users\Lenovo\RiderProjects\Tetris\Tetris\bin\Release\net7.0-windows\publish\Tetris.deps.json
-C:\Users\Lenovo\RiderProjects\Tetris\Tetris\bin\Release\net7.0-windows\publish\Tetris.runtimeconfig.json
-C:\Users\Lenovo\RiderProjects\Tetris\Tetris\bin\Release\net7.0-windows\publish\Tetris.pdb
